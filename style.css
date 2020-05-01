@@ -17,6 +17,25 @@ h1 {
 	width: 100%;
 }
 
+h2 {
+	text-decoration: underline;
+}
+
+.colorButtons {
+	-webkit-transition: transform 2s;
+	-o-transition: transform 2s;
+	transition: transform 4s;
+	transition-timing-function: linear;
+}
+
+.color1:hover	{
+	transform: scale(1.2);
+}
+
+.color2:hover {
+	transform: scale(1.2);
+}
+
 h3 {
 	font: 900 1em 'Raleway', sans-serif;
 	color: rgba(0,0,0,.5);
