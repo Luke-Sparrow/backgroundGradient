@@ -1,4 +1,4 @@
-# backgroundGradient
+# BackgroundGradient
 
 Simple site to select two colors to gradient between.
 Generates CSS for copy and paste. 
